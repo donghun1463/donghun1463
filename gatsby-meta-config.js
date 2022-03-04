@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `이동훈`,
     bio: {
-      role: `Data analyst`,
-      description: ['돈 벌고 싶은', '누워 있고 싶은', '맛있는거 좋아하는'],
+      role: `Data Analyst`,
+      description: ['돈 벌고 싶은', '부자되고 싶은', '돈 펑펑 쓰고 싶은'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
