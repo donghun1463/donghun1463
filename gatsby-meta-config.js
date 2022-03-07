@@ -2,7 +2,7 @@ module.exports = {
   title: `zoomkoding.com`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://github.com/donghun1463/donghun1463.git`,
+  siteUrl: `https://donghun1463.netlify.app/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
