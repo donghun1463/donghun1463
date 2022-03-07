@@ -1,5 +1,5 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `DongDong.com`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.zoomkoding.com`,
@@ -26,7 +26,7 @@ module.exports = {
 
   // metadata for About Page
   about: {
-    timestamps: [
+    Career: [
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
@@ -43,13 +43,57 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
-        activity: '개인 블로그 개발 및 운영',
-        links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
-        },
+        date: '2017.02 ~',
+        activity: '서울시립대학교 경영학부',
+        //links: {
+          //post: '/gatsby-starter-zoomkoding-introduction',
+          //github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
+          //demo: 'https://www.zoomkoding.com',
+        //},
+      },
+      {
+        date: '2017.03 ~ 2018.06 / 2020.09~2021.02',
+        activity: '교내 학회 경영경제문제연구회 활동',
+        //links: {
+          //github: '',
+          //post: '',
+          //googlePlay: '',
+          //appStore: '',
+          //demo: '',
+        //}
+      },
+      {
+        date: '2018.07 ~ 2020.06',
+        activity: '군복무: 공군 병장 만기 전역',
+        //links: {
+          //github: '',
+          //post: '',
+          //googlePlay: '',
+          //appStore: '',
+          //demo: '',
+        //}
+      },
+      {
+        date: '2020.06.05',
+        activity: '2020 씰리침대 마케팅 공모전 장려상 수상',
+        //links: {
+          //github: '',
+          //post: '',
+          //googlePlay: '',
+          //appStore: '',
+          //demo: '',
+        //}
+      },
+      {
+        date: '2020.06.05',
+        activity: '2020 씰리침대 마케팅 공모전 장려상 수상',
+        //links: {
+          //github: '',
+          //post: '',
+          //googlePlay: '',
+          //appStore: '',
+          //demo: '',
+        //}
       },
     ],
 
