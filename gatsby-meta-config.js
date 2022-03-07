@@ -44,7 +44,7 @@ module.exports = {
       // ========================================================
       {
         date: '2017.02 ~',
-        activity: '서울시립대학교 경영학부',
+        activity: '서울시립대학교 d경영학부',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
