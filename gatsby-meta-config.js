@@ -11,7 +11,7 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `이동훈`,
+    name: `이동훈s`,
     bio: {
       role: `Data Analyst`,
       description: ['돈 벌고 싶은', '부자되고 싶은', '돈 펑펑 쓰고 싶은'],
