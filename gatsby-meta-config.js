@@ -2,7 +2,7 @@ module.exports = {
   title: `zoomkoding.com`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://donghun1463.netlify.app/`,
+  siteUrl: `https://www.zoomkoding.com`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
@@ -26,7 +26,7 @@ module.exports = {
 
   // metadata for About Page
   about: {
-    Career: [
+    career: [
       // =====       [Timestamp Sample and Structure]      =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!) =====
       {
